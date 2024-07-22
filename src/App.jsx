@@ -1,6 +1,5 @@
-import Test from "./Test";
 import "./app.scss";
-import Contact from "./components/contact/Contact";
+import Contact from "./components/Contact/Contact";
 import Cursor from "./components/Cursor/Cursor";
 import Hero from "./components/hero/Hero";
 import NavBar from "./components/Navbar/Navbar"
